@@ -1,6 +1,5 @@
-# Hey, name's Jackie!
-I'm a VTuber and computer engineering student!
-Pronouns (he/him) don't really matter. Feel free to misgender me, just don't do that to other people!
+# Hey, name's Jackie
+I'm a VTuber and computer engineering student.
 
 # Socials
 <a rel="me" href="https://www.youtube.com/@JackieJKENVtuber">
@@ -15,12 +14,10 @@ I currently "work" on three YouTube channels:
 You can also find me on Discord; my name there is jk0jk.
 
 # About Minigame Investigator
-I'm currently working on a rom hack of Pokemon Emerald based on Five Nights at Freddy's - Minigame Investigator.
-If you're looking for spoilers, you can find the branch here: https://github.com/JK0JK/Minigame-Investigator/
-Please don't tell anyone. The full, final experience will be much more fulfilling to both you and me than an unfinished, unpolished alpha version.
+I used to work on a rom hack of Pokemon Emerald based on Five Nights at Freddy's - Minigame Investigator.
+The project is currently abandoned, but I might come back to it eventually. I have not worked on it in AGES due to lack of experience with the GBA and to a mass scale merge conflict when updating to better tools. Also the FNaF lore has moved past being compatible with the storyline I had in mind, but that's just an excuse.
 
 # Projects I work in
- * [Parker Ryland's Explorers of Deceit](https://www.youtube.com/watch?v=9p-NhAiGYzI&list=PLwoWdHbd-X2hpfg7cq24dv3Y1o96UFADx) (Voice of "Sentry")
+ * [Parker Ryland's Explorers of Deceit](https://www.youtube.com/watch?v=9p-NhAiGYzI&list=PLwoWdHbd-X2hpfg7cq24dv3Y1o96UFADx) (Voices of "Sentry", "Drowzee" and "Gengar")
  * [Streaming channel](https://www.youtube.com/@JackieJKENVtuber) (Host)
  * [Jackie's Despair](https://www.youtube.com/@JackiesDespair) (Host)
- * [Minigame Investigator](https://github.com/JK0JK/Minigame-Investigator) (Lead developer)
